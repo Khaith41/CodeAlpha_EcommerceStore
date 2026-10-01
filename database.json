@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "Demo Customer",
+      "email": "demo@codealpha.tech",
+      "password": "password123"
+    }
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "name": "AeroPulse Wireless ANC Headphones",
+      "category": "Audio",
+      "price": 199.99,
+      "rating": 4.8,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "description": "Studio-grade active noise cancellation, 40-hour battery life, spatial audio support, and ultra-soft memory foam ear cushions."
+    },
+    {
+      "id": "p2",
+      "name": "ChronoFit Pro Smart Watch",
+      "category": "Wearables",
+      "price": 249.50,
+      "rating": 4.7,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+      "description": "AMOLED sapphire display with continuous ECG, blood oxygen monitoring, dual-band GPS, and 7-day battery endurance."
+    },
+    {
+      "id": "p3",
+      "name": "KeyCraft Mechanical Keyboard 75%",
+      "category": "Accessories",
+      "price": 129.00,
+      "rating": 4.9,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+      "description": "Hot-swappable tactile switches, gasket-mounted CNC aluminum frame, per-key RGB, and tri-mode wireless connectivity."
+    },
+    {
+      "id": "p4",
+      "name": "LumaLens 4K Mirrorless Camera",
+      "category": "Photography",
+      "price": 899.00,
+      "rating": 4.9,
+      "stock": 6,
+      "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=800&q=80",
+      "description": "Full-frame 33MP sensor, 5-axis in-body stabilization, real-time eye autofocus, and 10-bit 4K 60fps video recording."
+    },
+    {
+      "id": "p5",
+      "name": "SonicWave Portable Bluetooth Speaker",
+      "category": "Audio",
+      "price": 89.99,
+      "rating": 4.6,
+      "stock": 30,
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+      "description": "360-degree immersive bass, IP67 waterproof & dustproof rating, and 24 hours of continuous outdoor playback."
+    },
+    {
+      "id": "p6",
+      "name": "ErgoGlide Vertical Wireless Mouse",
+      "category": "Accessories",
+      "price": 59.99,
+      "rating": 4.5,
+      "stock": 40,
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80",
+      "description": "Precision 8000 DPI optical sensor, whisper-quiet switches, ergonomic wrist posture design, and USB-C fast charging."
+    }
+  ],
+  "orders": []
+}
