@@ -505,3 +505,37 @@ body {
   z-index: 200;
   box-shadow: 0 10px 25px rgba(0,0,0,0.4);
 }
+
+/* Enhanced Mobile Responsiveness (Smartphones, Android, iOS) */
+@media (max-width: 640px) {
+  .nav-content {
+    gap: 0.6rem;
+  }
+  .search-bar {
+    order: 3;
+    max-width: 100%;
+    width: 100%;
+  }
+  .nav-actions {
+    gap: 0.35rem;
+    flex-wrap: wrap;
+  }
+  .nav-actions .btn {
+    padding: 0.45rem 0.65rem;
+    font-size: 0.8rem;
+  }
+  .hero h1 {
+    font-size: 1.6rem;
+  }
+  .hero p {
+    font-size: 0.9rem;
+  }
+  .product-grid {
+    grid-template-columns: 1fr;
+  }
+  .drawer-card {
+    max-width: 100%;
+    height: 100%;
+  }
+}
+
